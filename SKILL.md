@@ -15,13 +15,13 @@ A **rubric designer** using a frontier model reads the journal's official instru
 
 Build journal-specific criteria and weights totaling 20. One starting example is coverage (6), accuracy and evidence (5), interpretation and limitations (4), consistency and traceability (3), and clarity (2). Explain the chosen weights and distinguish journal requirements, reviewer requests and the designer's judgments. If the journal publishes few criteria, identify which defaults were retained.
 
-Give every comment an ID. Split compound requests into separately verifiable expectations. For each, record the evidence needed for full credit, where the answer belongs, and the reason and size of a deduction. Set separate criteria for the editor's request and fidelity to the original. A **second frontier agent** challenges the rubric on the hardest cases, including justified disagreement and unavailable data. Count each underlying defect once per report. Date and freeze the rubric for that editorial round.
+Give every comment an ID. Split compound requests into separately verifiable expectations. For each, record the evidence needed for full credit, where the answer belongs, and the reason and size of a deduction. Set separate criteria for the editor's request and fidelity to the original. A **second frontier agent** challenges the rubric on the hardest cases, including justified disagreement and unavailable data. Count each underlying defect once per report. In the example rubric, grade in quarter points and cap a report at 18/20 if a major request goes unanswered or a substantive contradiction affects a conclusion. Record any journal-specific adaptation before grading. Date and freeze the rubric for that editorial round.
 
 ## 2. Protect the scientific message and resolve each request
 
-A **fidelity reviewer** reads the original submission. Record the question, population, comparator, primary endpoint and time horizon, key estimates and uncertainty, justified methods, and limits of the conclusion. Use this record to detect drift. Correct a demonstrated error even when it appeared in the original.
+A **frontier fidelity reviewer** reads the original submission. Record the question, population, comparator, primary endpoint and time horizon, key estimates and uncertainty, justified methods, and limits of the conclusion. Use this record to detect drift. Correct a demonstrated error even when it appeared in the original.
 
-A **separate frontier agent leads the revision**. Delegate routine requests by difficulty and adjudicate disputes over methods, new analyses and interpretation. Check each reviewer's premise against the manuscript, available data or primary literature.
+A **separate frontier agent leads the revision**. Delegate routine requests by difficulty and adjudicate disputes over methods, new analyses and interpretation. Check each reviewer's premise against the manuscript, available data or primary literature. When scope or readability is disputed, compare the passage with original papers on closely related questions in leading journals. Use those examples to guide emphasis and length while preserving the study’s own argument.
 
 | What the evidence shows | How to respond |
 |---|---|
